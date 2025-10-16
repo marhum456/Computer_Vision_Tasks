@@ -1,7 +1,7 @@
 # Computer-Vision-Tasks
 
 ## 📋 Project Overview
-This repository contains two image processing tasks completed as academic coursework. The tasks demonstrate different techniques for processing images such as smoothing, edge detection, and thresholding.
+This repository contains two image processing tasks completed as academic coursework. The tasks demonstrate different techniques for processing images such as edge detection and thresholding.
 
 1. **Task 1:** Image thresholding and connected components analysis using OpenCV
 2. **Task 2:** Edge detection using Sobel, Prewitt, and Roberts operators
