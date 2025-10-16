@@ -57,4 +57,4 @@ The primary goal is to explore different methods for image processing, enhancing
 ## Author
 **Your Name**
 - LinkedIn: [https://www.linkedin.com/in/muhammad-arhum01/](https://www.linkedin.com/in/muhammad-arhum01/)
-- Email: [muhammadarhum277@gmail.com]
+- Email: muhammadarhum277@gmail.com
