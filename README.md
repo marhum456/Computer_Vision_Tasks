@@ -1,11 +1,10 @@
 # Computer-Vision-Tasks
 
 ## 📋 Project Overview
-This repository contains three image processing tasks completed as academic coursework. The tasks demonstrate different techniques for processing images such as smoothing, edge detection, and thresholding.
+This repository contains two image processing tasks completed as academic coursework. The tasks demonstrate different techniques for processing images such as smoothing, edge detection, and thresholding.
 
 1. **Task 1:** Image thresholding and connected components analysis using OpenCV
-2. **Task 2:** Image smoothing with various kernel sizes (3x3, 5x5, 7x7, etc.)
-3. **Task 3:** Edge detection using Sobel, Prewitt, and Roberts operators
+2. **Task 2:** Edge detection using Sobel, Prewitt, and Roberts operators
 
 The primary goal is to explore different methods for image processing, enhancing the understanding of these techniques and their applications in various fields.
 
@@ -20,15 +19,7 @@ The primary goal is to explore different methods for image processing, enhancing
   - Perform connected component analysis to count the number of distinct areas.
 - **Results:** The task demonstrates how to segment an image and identify individual regions of interest.
 
-### 🧹 Task 2: Image Smoothing
-- **Objective:** To apply different smoothing filters (3x3, 5x5, 7x7, 9x9) to an image and observe the effects.
-- **Key Steps:**
-  - Load and convert the image to grayscale.
-  - Apply various smoothing filters (e.g., 3x3, 5x5, 7x7).
-  - Display the original image alongside the smoothed images for comparison.
-- **Results:** This task showcases how smoothing filters reduce noise and detail in an image.
-
-### 🖼️ Task 3: Edge Detection with Sobel, Prewitt, and Roberts Operators
+### 🖼️ Task 2: Edge Detection with Sobel, Prewitt, and Roberts Operators
 - **Objective:** To detect edges in an image using three different edge detection operators: Sobel, Prewitt, and Roberts.
 - **Key Steps:**
   - Load and convert the image to grayscale.
@@ -61,7 +52,6 @@ The primary goal is to explore different methods for image processing, enhancing
 
 ## Key Insights & Conclusion
 - **Thresholding and Connected Components Analysis** is a basic yet powerful method for segmenting images into distinct regions.
-- **Image Smoothing** helps reduce noise and is commonly used as a preprocessing step for many image analysis tasks.
 - **Edge Detection** operators such as Sobel, Prewitt, and Roberts are foundational techniques used to identify boundaries and contours within images.
 
 ## Author
