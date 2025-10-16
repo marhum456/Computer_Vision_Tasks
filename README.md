@@ -1,7 +1,7 @@
 # Computer-Vision-Tasks
 
 ## 📋 Project Overview
-This repository contains three image processing tasks completed as academic coursework. The projects demonstrate different techniques for processing images such as smoothing, edge detection, and thresholding.
+This repository contains three image processing tasks completed as academic coursework. The tasks demonstrate different techniques for processing images such as smoothing, edge detection, and thresholding.
 
 1. **Task 1:** Image thresholding and connected components analysis using OpenCV
 2. **Task 2:** Image smoothing with various kernel sizes (3x3, 5x5, 7x7, etc.)
@@ -18,7 +18,7 @@ The primary goal is to explore different methods for image processing, enhancing
   - Calculate the average grayscale value of the image.
   - Apply binary thresholding based on the average grayscale value.
   - Perform connected component analysis to count the number of distinct areas.
-- **Results:** The assignment demonstrates how to segment an image and identify individual regions of interest.
+- **Results:** The task demonstrates how to segment an image and identify individual regions of interest.
 
 ### 🧹 Task 2: Image Smoothing
 - **Objective:** To apply different smoothing filters (3x3, 5x5, 7x7, 9x9) to an image and observe the effects.
@@ -26,7 +26,7 @@ The primary goal is to explore different methods for image processing, enhancing
   - Load and convert the image to grayscale.
   - Apply various smoothing filters (e.g., 3x3, 5x5, 7x7).
   - Display the original image alongside the smoothed images for comparison.
-- **Results:** This assignment showcases how smoothing filters reduce noise and detail in an image.
+- **Results:** This task showcases how smoothing filters reduce noise and detail in an image.
 
 ### 🖼️ Task 3: Edge Detection with Sobel, Prewitt, and Roberts Operators
 - **Objective:** To detect edges in an image using three different edge detection operators: Sobel, Prewitt, and Roberts.
@@ -34,7 +34,7 @@ The primary goal is to explore different methods for image processing, enhancing
   - Load and convert the image to grayscale.
   - Apply Sobel, Prewitt, and Roberts edge detection filters.
   - Display the gradient magnitudes and directions for each operator.
-- **Results:** This assignment highlights how edge detection helps in identifying boundaries and structures within an image.
+- **Results:** This task highlights how edge detection helps in identifying boundaries and structures within an image.
 
 ## How to Run the Code
 
