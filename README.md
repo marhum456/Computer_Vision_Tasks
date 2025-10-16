@@ -40,8 +40,8 @@ The primary goal is to explore different methods for image processing, enhancing
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/Image-Processing-Assignments.git
-    cd Image-Processing-Assignments
+    git clone https://github.com/marhum456/Computer_Vision_Tasks.git
+    cd Computer_Vision_Tasks
     ```
 
 2. **Install dependencies:**
